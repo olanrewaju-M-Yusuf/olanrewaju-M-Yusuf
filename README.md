@@ -8,7 +8,7 @@
 | Documentation               | Respository   |
 | -------------               | ------------- |
 | DevOps Project Documentation| https://github.com/olanrewaju-M-Yusuf/My-DevOps-Projects/tree/master|
-| Hands On Lab on AWS Services| https://github.com/olanrewaju-M-Yusuf/MyProject|
+| Hands On Lab Project| https://github.com/olanrewaju-M-Yusuf/MyProject|
 
 
 - 🌱 I’m currently learning Software Development

@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently learning Software Development
-- 🧑🏽‍💻 I’m looking to collaborate with people
+- 🧑🏽‍💻 Open to collaboration
 - 📫 Reach me: **Yusufolanrewaju9133@gmail.com**
 - ⚡ Fun fact: ... **I love Football⚽️ and Traveling🛫** 
 

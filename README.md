@@ -1,5 +1,5 @@
 ## <h1 align="center"> Hi 👋, I'm Muhammed Olanrewaju YUSUF</h1> ##
-<h3 align="center">I am a Information System </h3>
+<h3 align="center">I love Information System </h3>
 
 ## <h4 align="center"> An efficient IT Professional interested in Info System with over 2 years of working with cloud orchestration tools, computing, security, identity & access management, monitoring, event management, governance & compliance, application delivery, data protection, image, and patch management in the AWS platform and also third-party tools to design, build monitor and maintain CI/CD pipelines </h4> ##
 

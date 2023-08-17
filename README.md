@@ -1,7 +1,7 @@
 ## <h1 align="center"> Hi 👋, I'm Muhammed Olanrewaju YUSUF</h1> ##
 <h3 align="center">I love Information System </h3>
 
-## <h4 align="center"> An efficient IT Professional interested in Info System with over 2 years of working with cloud orchestration tools, computing, security, identity & access management, monitoring, event management, governance & compliance, application delivery, data protection, image, and patch management in the AWS platform and also third-party tools to design, build monitor and maintain CI/CD pipelines </h4> ##
+## <h4 align="center"> An efficient IT Professional studying Information System with over 2 years of working with cloud orchestration tools, computing, security, identity & access management, monitoring, event management, governance & compliance, application delivery, data protection, image, and patch management in the AWS platform and also third-party tools to design, build monitor and maintain CI/CD pipelines </h4> ##
 
 <img align="centre" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
 

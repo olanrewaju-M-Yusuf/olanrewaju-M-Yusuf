@@ -11,7 +11,7 @@
 | Hands On Lab Project| https://github.com/olanrewaju-M-Yusuf/MyProject|
 
 
-- 🌱 I’m currently learning Software Development
+- 🌱 I currently work as an IT Security Analyst
 - 🧑🏽‍💻 Open to collaboration
 - 📫 Reach me: **Yusufolanrewaju9133@gmail.com**
 - ⚡ Fun fact: ... **I love Football⚽️ and Traveling🛫** 

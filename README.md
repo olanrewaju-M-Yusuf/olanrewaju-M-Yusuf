@@ -6,6 +6,8 @@ Certified Cybersecurity Analyst with 4+ years of experience securing digital ass
 
 I'm eager to network with others who share a passion for advancing in the cybersecurity arena. Whether you are just starting or have extensive experience, let's collaborate to enhance our skills and help secure the digital landscape. </h4> 
 
+<img align="centre" alt="coding" width="400" src="https://www.electric.ai/wp-content/uploads/2021/07/Blog-Cybersecurity-Best-Practices-Refresh-gif.gif">
+
 <img align="centre" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
 
 | Documentation               | Respository   |

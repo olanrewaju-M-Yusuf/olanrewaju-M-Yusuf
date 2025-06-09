@@ -1,7 +1,9 @@
 ## <h1 align="center"> Hi 👋, I'm Muhammed Olanrewaju YUSUF</h1> ##
 <h3 align="center">I love Information System </h3>
 
-## <h4 align="center"> An efficient IT Professional studying Information System with over 2 years of working with cloud orchestration tools, computing, security, identity & access management, monitoring, event management, governance & compliance, application delivery, data protection, image, and patch management in the AWS platform and also third-party tools to design, build monitor and maintain CI/CD pipelines </h4> ##
+## <h4 align="center"> Certified Cybersecurity Analyst with 4+ years of experience securing digital assets in E-commerce, IT consulting, and fashion-tech. Skilled in threat detection, incident response, and real-time monitoring. Proficient in vulnerability assessments, penetration testing, and audits aligned with SOC 2, ISO 27001, NIST, and PCI DSS. Adept in AWS, Azure, Google Cloud, Nessus, Metasploit, and JIRA with a strong foundation in Zero Trust, encryption, malware analysis, and social engineering defense. Proven track record of enhancing security posture, ensuring compliance, and promoting secure innovation.
+
+I'm eager to network with others who share a passion for advancing in the cybersecurity arena. Whether you are just starting or have extensive experience, let's collaborate to enhance our skills and help secure the digital landscape. </h4> ##
 
 <img align="centre" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
 

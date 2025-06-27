@@ -22,7 +22,7 @@ Cybersecurity is everyone’s job, but I make sure it starts with a solid strate
 | Hands On Lab Project| https://github.com/olanrewaju-M-Yusuf/MyProject|
 
 
-- 🌱 I currently work as an IT Security Analyst
+- 🌱 I currently work as an Cybersecurity Analyst
 - 🧑🏽‍💻 Open to collaboration
 - 📫 Reach me: **Yusufolanrewaju9133@gmail.com**
 - ⚡ Fun fact: ... **I love Football⚽️ and Traveling🛫** 

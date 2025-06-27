@@ -4,7 +4,7 @@
 ## <h4 align="center"> 
 𝐀 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 with 4+ years of experience securing digital assets in E-commerce, IT consulting, Research and Fashion-Tech. 
 
-I specialize in threat detection, incident response, and real-time monitoring, vulnerability assessments, penetration testing, and audits aligned with SOC 2, ISO 27001, NIST, and PCI DSS. Adept in AWS, Splunk, Azure, Google Cloud, Nessus, Metasploit, and JIRA with a strong foundation in Zero Trust, encryption, malware analysis, and social engineering defense. Proven track record of enhancing security posture, ensuring compliance, and promoting secure innovation. 
+I specialize in threat detection, incident response, and real-time monitoring, vulnerability assessments, penetration testing, and audits aligned with 𝗜𝗦𝗢 𝟮𝟳𝟬𝟬𝟭, 𝗡𝗜𝗦𝗧, 𝗦𝗢𝗖 𝟮, 𝗛𝗜𝗣𝗔𝗔 𝗮𝗻𝗱 𝗣𝗖𝗜 𝗗𝗦𝗦. Adept in AWS, Splunk, Azure, Google Cloud, Nessus, Metasploit, and JIRA with a strong foundation in Zero Trust, encryption, malware analysis, and social engineering defense. Proven track record of enhancing security posture, ensuring compliance, and promoting secure innovation. 
 
 𝐖𝐇𝐀𝐓 𝐈 𝐁𝐑𝐈𝐍𝐆 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐓𝐄𝐀𝐌:
 

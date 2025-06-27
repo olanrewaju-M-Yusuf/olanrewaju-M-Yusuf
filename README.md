@@ -7,6 +7,7 @@ Certified Cybersecurity Analyst with 4+ years of experience securing digital ass
 I specialize in threat detection, incident response, and real-time monitoring, vulnerability assessments, penetration testing, and audits aligned with SOC 2, ISO 27001, NIST, and PCI DSS. Adept in AWS, Splunk, Azure, Google Cloud, Nessus, Metasploit, and JIRA with a strong foundation in Zero Trust, encryption, malware analysis, and social engineering defense. Proven track record of enhancing security posture, ensuring compliance, and promoting secure innovation. 
 
 WHAT I BRING TO YOUR TEAM:
+
 ✅ I have investigated and resolved 300+ security incidents, reducing average response time by 45%, and conducted regular internal audits that identified and patched high-risk vulnerabilities
 
 ✅ I have implemented employee security awareness training that decreased phishing click rates by 70% by partnering with engineering teams to enforce security-first development practices

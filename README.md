@@ -2,9 +2,16 @@
 <h3 align="center"> I love Cybersecurity </h3>
 
 ## <h4 align="center"> 
-Certified Cybersecurity Analyst with 4+ years of experience securing digital assets in E-commerce, IT consulting, and fashion-tech. Skilled in threat detection, incident response, and real-time monitoring. Proficient in vulnerability assessments, penetration testing, and audits aligned with SOC 2, ISO 27001, NIST, HIPAA, and PCI DSS. Adept in AWS, Azure, Google Cloud, Nessus, Metasploit, and JIRA with a strong foundation in Zero Trust, encryption, malware analysis, and social engineering defense. Proven track record of enhancing security posture, ensuring compliance, and promoting secure innovation.
+Certified Cybersecurity Analyst with 4+ years of experience securing digital assets in E-commerce, IT consulting, Research and Fashion-Tech. 
 
-I'm eager to network with others who share a passion for advancing in the cybersecurity arena. Whether you are just starting or have extensive experience, let's collaborate to enhance our skills and help secure the digital landscape. </h4> 
+I specialize in threat detection, incident response, and real-time monitoring, vulnerability assessments, penetration testing, and audits aligned with SOC 2, ISO 27001, NIST, and PCI DSS. Adept in AWS, Splunk, Azure, Google Cloud, Nessus, Metasploit, and JIRA with a strong foundation in Zero Trust, encryption, malware analysis, and social engineering defense. Proven track record of enhancing security posture, ensuring compliance, and promoting secure innovation. 
+
+WHAT I BRING TO YOUR TEAM:
+✅ I have investigated and resolved 300+ security incidents, reducing average response time by 45%, and conducted regular internal audits that identified and patched high-risk vulnerabilities
+
+✅ I have implemented employee security awareness training that decreased phishing click rates by 70% by partnering with engineering teams to enforce security-first development practices
+
+Cybersecurity is everyone’s job, but I make sure it starts with a solid strategy. If you’re looking to improve your organisation's security posture, feel free to reach out. Let’s connect, collaborate and network to enhance our skills and help secure the digital landscape. </h4> 
 
 <img align="centre" alt="coding" width="400" src="https://www.electric.ai/wp-content/uploads/2021/07/Blog-Cybersecurity-Best-Practices-Refresh-gif.gif"> <img align="centre" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
 
